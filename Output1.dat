@@ -1,0 +1,18 @@
+Welcome to CisLand
+add edge 0 1 with weight 1
+add edge 1 3 with weight 5
+add edge 3 0 with weight 3
+add edge 3 4 with weight 1
+add edge 1 4 with weight 1
+add edge 1 2 with weight 6
+add edge 5 2 with weight 2
+add edge 2 4 with weight 4
+add edge 5 4 with weight 4
+Initial graph complete
+E to add edge, I to increment a edge weight, D to decrement an edge weight, S to find the shortest path of an edge, and T to quit program
+Enter in Data in the format(E 1 3 5)
+add edge 0 2 with weight 3
+Increment edge 0 3 weight by 3
+Decrement edge 1 2 weight by 2
+Shortest path between 0 and 4: [1, 4]
+Exit
